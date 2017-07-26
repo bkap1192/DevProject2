@@ -14,7 +14,6 @@ public class GoogleTest
 		System.out.println("Hey I'm Barkha");
 		System.out.println("Hey I'm Akash");
 		System.out.println("Hey I'm Harish");
-		System.out.println("Hey I'm Akash");
 	}
 	
 }
