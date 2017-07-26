@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11387" started-at="2017-07-26T09:49:17Z" finished-at="2017-07-26T09:49:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11387" started-at="2017-07-26T09:49:17Z" finished-at="2017-07-26T09:49:28Z">
+      <class name="HMSTestProject.HMSTestProject.GoogleTest">
+        <test-method status="PASS" signature="fn_runGoogle()[pri:0, instance:HMSTestProject.HMSTestProject.GoogleTest@3b1d11]" name="fn_runGoogle" duration-ms="11375" started-at="2017-07-26T15:19:17Z" finished-at="2017-07-26T15:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fn_runGoogle -->
+      </class> <!-- HMSTestProject.HMSTestProject.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
