@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11387" started-at="2017-07-26T09:49:17Z" finished-at="2017-07-26T09:49:28Z">
+  <suite name="Default suite" duration-ms="10915" started-at="2017-07-26T10:03:09Z" finished-at="2017-07-26T10:03:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11387" started-at="2017-07-26T09:49:17Z" finished-at="2017-07-26T09:49:28Z">
+    <test name="Default test" duration-ms="10915" started-at="2017-07-26T10:03:09Z" finished-at="2017-07-26T10:03:20Z">
       <class name="HMSTestProject.HMSTestProject.GoogleTest">
-        <test-method status="PASS" signature="fn_runGoogle()[pri:0, instance:HMSTestProject.HMSTestProject.GoogleTest@3b1d11]" name="fn_runGoogle" duration-ms="11375" started-at="2017-07-26T15:19:17Z" finished-at="2017-07-26T15:19:28Z">
+        <test-method status="PASS" signature="fn_runGoogle()[pri:0, instance:HMSTestProject.HMSTestProject.GoogleTest@3b1d11]" name="fn_runGoogle" duration-ms="10905" started-at="2017-07-26T15:33:09Z" finished-at="2017-07-26T15:33:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fn_runGoogle -->
