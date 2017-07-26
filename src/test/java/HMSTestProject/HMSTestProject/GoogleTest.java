@@ -1,0 +1,16 @@
+package HMSTestProject.HMSTestProject;
+
+import org.testng.annotations.Test;
+
+public class GoogleTest 
+{
+    
+	
+	@Test()
+	public void fn_runGoogle(){
+		Google gle=new Google();
+		gle.fn_launchrowser();
+		System.out.println("method is running");
+	}
+	
+}
