@@ -8,7 +8,7 @@
     <classes>
      <class name="HMSTestProject.HMSTestProject.Google"/> 
  <!-- <class name="HMSTestProject.HMSTestProject.Google"/> -->
-        <!-- <class name="HMSTestProject.HMSTestProject.Google"/> -->
+      
         
        </classes>
   </test> <!-- Test -->
